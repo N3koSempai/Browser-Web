@@ -1,0 +1,19 @@
+{
+  "name": "browser-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/N3koSempai/Browser-Web.git"
+  },
+  "author": "N3koSempai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/N3koSempai/Browser-Web/issues"
+  },
+  "homepage": "https://github.com/N3koSempai/Browser-Web#readme"
+}
